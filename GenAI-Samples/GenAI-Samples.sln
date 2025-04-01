@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.35906.104
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKFunctions01", "SKFunctions01\SKFunctions01.csproj", "{566364D7-B5AB-4EB7-8F1E-E049C504C12A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAGSimple-10SKOllama", "RAGSimple-10SKOllama\RAGSimple-10SKOllama.csproj", "{9045CE07-444C-962B-2525-6C05A25E60C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{566364D7-B5AB-4EB7-8F1E-E049C504C12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566364D7-B5AB-4EB7-8F1E-E049C504C12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566364D7-B5AB-4EB7-8F1E-E049C504C12A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9045CE07-444C-962B-2525-6C05A25E60C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9045CE07-444C-962B-2525-6C05A25E60C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9045CE07-444C-962B-2525-6C05A25E60C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9045CE07-444C-962B-2525-6C05A25E60C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
