@@ -1,6 +1,6 @@
 using System.ComponentModel;
 
-namespace TestServerWithHosting.Tools;
+namespace TodoAspNetCoreSseServer.Tools;
 
 [System.Serializable]
 public class TodoItem
