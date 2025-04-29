@@ -7,9 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddMcpServer()
     .WithHttpTransport()
     .WithTools<EchoTool>()
-    .WithTools<SampleLlmTool>()
-    .WithTools<TodoService>()
-    .WithTools<FeedReaderTool>();  // Added FeedReaderTool
+    .WithTools<FeedReaderTool>();
 
 builder.Services.AddOpenTelemetry()
     .WithTracing(b => b.AddSource("*")
