@@ -1,7 +1,7 @@
 using ModelContextProtocol.Server;
 using System.ComponentModel;
 
-namespace TestServerWithHosting.Tools;
+namespace TodoAspNetCoreSseServer.Tools;
 
 [McpServerToolType]
 public sealed class TodoService
