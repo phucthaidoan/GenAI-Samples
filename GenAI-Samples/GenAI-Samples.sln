@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatWithTools", "ChatWithTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverythingServer", "EverythingServer\EverythingServer.csproj", "{7CEF94FD-5385-8B71-B90B-674ECF269350}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFeedAspNetCoreSseServer", "ReadFeedAspNetCoreSseServer\ReadFeedAspNetCoreSseServer.csproj", "{F500D161-1C8F-0CF3-36C8-38970A532BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{7CEF94FD-5385-8B71-B90B-674ECF269350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CEF94FD-5385-8B71-B90B-674ECF269350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CEF94FD-5385-8B71-B90B-674ECF269350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
