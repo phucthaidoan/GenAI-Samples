@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverythingServer", "Everyth
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFeedAspNetCoreSseServer", "ReadFeedAspNetCoreSseServer\ReadFeedAspNetCoreSseServer.csproj", "{F500D161-1C8F-0CF3-36C8-38970A532BFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaSK-Plugin", "OllamaSK-Plugin\OllamaSK-Plugin.csproj", "{21ED341D-4A9C-3EE8-710E-6B1D7B4D8985}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F500D161-1C8F-0CF3-36C8-38970A532BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21ED341D-4A9C-3EE8-710E-6B1D7B4D8985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21ED341D-4A9C-3EE8-710E-6B1D7B4D8985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21ED341D-4A9C-3EE8-710E-6B1D7B4D8985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21ED341D-4A9C-3EE8-710E-6B1D7B4D8985}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
