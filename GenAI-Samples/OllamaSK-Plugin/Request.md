@@ -2,7 +2,7 @@
 ## This file is used to inspect the requests made by the OllamaSK plugin.
 
 ### Request 1
-HTTP POST: http://localhost:11434/api/chat
+HTTP POST: http://localhost:11434/api/chat \
 Payload:
 ```json
 {
@@ -82,7 +82,7 @@ Response:
 ```
 
 ### Request 2
-HTTP POST: http://localhost:11434/api/chat
+HTTP POST: http://localhost:11434/api/chat \
 Payload:
 ```json
 {
